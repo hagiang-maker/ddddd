@@ -1,0 +1,1 @@
+Hệ thống Web AI Vinasumo chốt sale tự động. Deploy lên GitHub và kết nối API OpenAI để chạy thật.
